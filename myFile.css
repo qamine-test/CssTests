@@ -1,14 +1,18 @@
 
 body {
-background-color:black;
-border:0
+	background-color: black;
+	border:0
 }
 
 .myClass {
-background-colour:white;
+	background-colour: white;
 }
 
 .white-spacer {
-color:white;
-border:1;
+	color: white;
+	border: 1;
+}
+
+.clear-both {
+	clear: both;
 }
