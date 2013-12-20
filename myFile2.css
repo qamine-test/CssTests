@@ -1,0 +1,17 @@
+body {
+	background-color: black;
+	border:0
+}
+
+.myClass {
+	background-colour: white;
+}
+
+.white-spacer {
+	color: white;
+	border: 1;
+}
+
+.clear-both {
+	clear: both;
+}
