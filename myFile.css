@@ -1,4 +1,4 @@
-body {
+0body {
 	background-color: black;
 	border:0
 }
@@ -31,6 +31,10 @@ bla2 {
 onemoreerror:yep;
 }
 
+
+bla2 {
+oneError:yep;
+}
 
 
 bla2 {
