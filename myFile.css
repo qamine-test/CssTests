@@ -1,6 +1,6 @@
 body {
 	background-color: black;
-	border:0
+	border:0;
 }
 
 .myClass {
@@ -15,5 +15,6 @@ body {
 
 .clear-both {
 	clear: both;
+	yack: 2
 }
  
